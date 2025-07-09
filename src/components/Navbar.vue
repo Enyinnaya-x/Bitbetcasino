@@ -5,9 +5,9 @@ import { Coins, CircleUserRound, AlignRight, X } from 'lucide-vue-next';
         const hamBtn = document.getElementById("hamBtn");
         const bitLogo = document.getElementById("bitLogo");
         const coinlogo = document.getElementById("coinlogo");
-        hamBtn.classList.add("hidden")
-        bitLogo.classList.add("hidden")
-        coinlogo.classList.add("hidden")
+        hamBtn.classList.add("invisible")
+        bitLogo.classList.add("invisible")
+        coinlogo.classList.add("invisible")
         hamMenu.classList.remove("hidden");
         hamMenu.classList.add("flex");
         hamMenu.classList.remove("-right-full");
@@ -22,9 +22,9 @@ import { Coins, CircleUserRound, AlignRight, X } from 'lucide-vue-next';
         hamMenu.classList.remove("flex");
         hamMenu.classList.add("-right-full");
         hamMenu.classList.remove("right-0");
-        hamBtn.classList.remove("hidden")
-        bitLogo.classList.remove("hidden")
-        coinlogo.classList.remove("hidden")
+        hamBtn.classList.remove("invisible")
+        bitLogo.classList.remove("invisible")
+        coinlogo.classList.remove("invisible")
     }
 </script>
 
