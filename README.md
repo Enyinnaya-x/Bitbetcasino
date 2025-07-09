@@ -5,8 +5,7 @@ It offers an immersive environment where users can play games like **Slots**, **
 
 > 🚧 Status: Frontend in Progress  
 > 🎮 Game components coming soon  
-> 🌐 [Live on Netlify](https://bitbet.netlify.app) ← _replace this with your actual link_
-
+> 🌐 [Live on Netlify](https://bitbet.netlify.app) 
 ---
 
 ## ✨ Features
